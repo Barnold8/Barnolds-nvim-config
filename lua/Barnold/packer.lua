@@ -4,5 +4,5 @@ return require('packer').startup(function() -- Make sure to go into command mode
     
     use 'wbthomason/packer.nvim'
     use 'folke/tokyonight.nvim'
-
+    use 'andweeb/presence.nvim'
 end)
