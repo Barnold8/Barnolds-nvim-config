@@ -1,1 +1,2 @@
-print("Hello from barnold")
+-- print("Hello from barnold)
+require("Barnold.set")
