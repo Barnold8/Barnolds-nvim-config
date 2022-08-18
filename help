@@ -1,0 +1,11 @@
+Commands:
+
+    :help vim.opt -- For help regarding opt variables
+    :help option-summary -- For a list in regards to opt variables
+
+    NOTE: the help is referring to the vimscript version aka set 
+          option=value becomes vim.opt.option = value, 
+          set option becomes vim.opt.option = true, 
+          set nooption becomes vim.opt.option = false 
+
+
